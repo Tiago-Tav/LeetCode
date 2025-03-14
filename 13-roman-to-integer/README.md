@@ -1,6 +1,6 @@
-##O programa rodou em um tempo de execução de 4ms (supera 65.01%) e usou 17.94 MB (supera 21,28%)
+## O programa rodou em um tempo de execuÃ§Ã£o de 4ms (supera 65.01%) e usou 17.94 MB (supera 21,28%)
 
-###Minha solução se resumiu em:
+### Minha soluÃ§Ã£o se resumiu em:
 
 1. Mapear os caracteres em romanos para serem chaves dos seus equivalentes em decimal.
 
@@ -10,8 +10,8 @@
 
 4. Somar todos os itens da lista com o Sum()
 
-###Complexidade de Tempo
+### Complexidade de Tempo
 
-O loop na string é O(n) mais a soma da lista que é de tamanho igual ao input também é O(n)
+O loop na string Ã© O(n) mais a soma da lista que Ã© de tamanho igual ao input tambÃ©m Ã© O(n)
 
 O(n) + O(n) = **O(n)**
